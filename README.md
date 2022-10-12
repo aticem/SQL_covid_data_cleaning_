@@ -9,3 +9,6 @@ deletion of duplicate values,
 deleting unnecessary columns
 
 studies have been done
+
+- sadasdsad
+- sub asdasdasd
